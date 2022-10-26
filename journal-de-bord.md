@@ -4,3 +4,5 @@
 12/10/22 : Partage du dossier PPE1 sur le gitHub du cours.
 
 19/10/22 : Ajout des scripts faits lors de la séance du 19 octobre.
+
+26/10/22 : Ajout du script de vérification des URLs.
