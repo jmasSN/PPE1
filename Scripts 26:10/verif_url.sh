@@ -14,7 +14,7 @@ then
 	FICHIER_URLS=$1
 	OK=0
 	NOK=0
-	while read -r LINE ; # -r => ignore les échappements qui ne sont pas encodés (genre \n)
+	while read -r LINE ; # -r => ignore \n
 	do
 		echo "La ligne : $LINE"
 		if [[ $LINE =~ "https?://"]]
