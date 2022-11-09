@@ -9,3 +9,8 @@
 26/10/22 : Ajout du script de vérification des URLs.
 
 09/11/22 : Ajout de index.html et transformation du dépôt en site.
+
+
+A SUPPRIMER
+EXERCICE 2
+A SUPPRIMER
