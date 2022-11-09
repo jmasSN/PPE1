@@ -6,3 +6,5 @@
 19/10/22 : Ajout des scripts faits lors de la séance du 19 octobre.
 
 26/10/22 : Ajout du script de vérification des URLs.
+
+09/11/22 : Ajout de index.html et transformation du dépôt en site.
