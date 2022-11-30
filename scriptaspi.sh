@@ -55,7 +55,7 @@ do
 	# On récupère le code réponse
     CODEHTTP=$(curl -I -s $line | grep -e "^HTTP/" | grep -Eo "[0-9]{3}" | head -n1)	
 	# On récupère l'encodage
-	ENC=$(curl -I -s $line | grep -Po "charset=[\w-]+"| cut -d= -f2)
+	ENC=$(curl -I -s $line | grep -Eo "charset=[\w-]+"| cut -d= -f2)
 	# On récupère le contenu de la page HTML
 	aspiration=$(curl $URL)
 	# On met chaque aspirations dans un fichier nouveau fichier HTML
