@@ -6,7 +6,7 @@
 # bash traitement_url_base.sh <URL.txt>  <tableauURL.html> 
 
 #<tableauURL.html>  est le fichier de sortie du tableau HTML (ici il n'existe pas avant le lancement du script).
-#Il est nécéssaire d'avoir créer un dossier 'aspirations' dans le dossier d'utilisation du script.
+#Il est nécéssaire d'avoir créer des dossiers 'dumps-text' et 'aspirations' dans le dossier d'utilisation du script.
 #===============================================================================
 
 # On vérifie que l'on a 2 arguments :
