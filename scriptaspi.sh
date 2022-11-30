@@ -30,9 +30,9 @@ fi
 fichier_urls=$1 # le fichier d'URL en entrée
 fichier_tableau=$2 # le fichier HTML en sortie
 
-# modifier la ligne suivante pour créer effectivement du HTML
 
-palabra="étranger" # on peut faire mieux ez
+
+
 echo $fichier_urls;
 basename=$(basename -s .txt $fichier_urls)
 
