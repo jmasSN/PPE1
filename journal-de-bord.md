@@ -10,4 +10,6 @@
 
 09/11/22 : Ajout de index.html et transformation du dépôt en site. Réalisation de la feuille d'exercice 2.
 
-30/11/22 : Script de traitement des URLs avec aspirations HTML. Test sur le fichier d'URLs anglais.   
+30/11/22 : Script de traitement des URLs avec aspirations HTML. Test sur le fichier d'URLs anglais.  
+
+07/11/22 : Script iTrameur : concaténation des dumps et des contextes pour analyse avec iTrameur.
